@@ -1,4 +1,4 @@
-## 📸 Screenshots
+Screenshots 
 
 ### **Step 1 — Created Users in Entra ID**
 ![Step 1](./screenshots/step1.png)
