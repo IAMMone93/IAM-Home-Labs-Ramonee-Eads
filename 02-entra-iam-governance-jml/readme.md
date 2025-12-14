@@ -1,4 +1,6 @@
 
+
+
 💻 Microsoft Entra ID – Identity Governance & Access Operations (Lab 2)
 
 Ramone Eads
